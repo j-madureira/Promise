@@ -1,0 +1,3 @@
+- Crie um Array
+- Insira pelo menos 3 valores utilizando promises
+- No último usuário a ser inserido liste os usuários
